@@ -1,6 +1,13 @@
 # History files
 .Rhistory
 .Rapp.history
+.bash_history
+.bash_logout
+.bashrc
+.profile
+.config/rstudio/
+.local/share
+.sudo_as_admin_successful
 
 # Session Data files
 .RData
